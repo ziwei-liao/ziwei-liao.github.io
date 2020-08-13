@@ -20,7 +20,7 @@ author_profile: true
 
 [1] Liao, Z., Wang, W., Qi, X. & Zhang, X.(2020). RGB-D Object SLAM using Quadrics for Indoor Environments. Submitted to Sensors.
 
-[2] Liao, Z., Wang, W., Qi, X., Zhang, X., Xue, L., Jiao, J., & Wei, R. (2020). Object-oriented SLAM using Quadrics and Symmetry Properties for Indoor Environments. ArXiv. [[pdf]](https://arxiv.org/abs/2004.05303)
+[2] (an ealier version of [1]) Liao, Z., Wang, W., Qi, X., Zhang, X., Xue, L., Jiao, J., & Wei, R. (2020). Object-oriented SLAM using Quadrics and Symmetry Properties for Indoor Environments. ArXiv. [[pdf]](https://arxiv.org/abs/2004.05303)
 
 ### Codes
 We have released our core codes on [Github](https://github.com/XunshanMan/Object-oriented-SLAM).
