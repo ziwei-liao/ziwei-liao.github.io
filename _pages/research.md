@@ -7,10 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
----
-# Main Projects
 
-Version 14-17
+# Publications
+
+[1] Liao, Z., Wang, W., Qi, X. & Zhang, X.(2020). RGB-D Object SLAM using Quadrics for Indoor Environments. Sensors, 20. [[pdf]](https://www.mdpi.com/1424-8220/20/18/5150/pdf)
+
+[2] Qi, X., Wang, W., Liao, Z., Zhang, X., Wei, Ran. (2020). Object Semantic Grid Mapping with 2D LiDAR and RGB-D Camera for Domestic Robot Navigation. Applied Science, 20. [[pdf]](https://www.mdpi.com/2076-3417/10/17/5782)
+
+
+[3] Zhang, X., Wang, W., Qi, X., Liao, Z., & Wei, R. (2019). Point-Plane SLAM Using Supposed Planes for Indoor Environments. Sensors, 19. [[pdf]](https://www.mdpi.com/2076-3417/10/17/5782)
+
+
+[4] Liao, Z., Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv, abs/1910.04936. (Preprint) [[pdf]](https://arxiv.org/abs/1910.04936)
+
+[5] Liao, Z., Positioning method, device, electronic equipment, readable storage medium, CN111383286A, 2020 (Chinese Patent)
+
+
+# First-author Projects
 
 ## 1. Object-level SLAM for Indoor Environments
 **[Sep 2019 - Current] The Robotics Institute of Beihang University**
@@ -27,13 +40,12 @@ Version 14-17
 **Liao, Z.**, Wang, W., Qi, X. & Zhang, X.(2020). RGB-D Object SLAM using Quadrics for Indoor Environments. Sensors. [[pdf]](https://www.mdpi.com/1424-8220/20/18/5150/pdf)
 
 ### Video Demo 
-This is a video demo of the early version.
+This is a video demo of an early version. We recommend seeing the publication for the detail.
 <iframe width="315" height="177.2" src="https://www.youtube.com/embed/u9zRBp4TPIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- video size : 420 236.25 -->
 <!-- 3/4 video size : 315 177.2 -->
 
----
 
 ## 2. Coarse-to-fine Visual Localization using Semantic Compact Map
 **[Oct  2018 – Jul 2019] Research Intern of the SLAM Group in Megvii (Face++) Technology Co., Ltd.**
@@ -56,7 +68,6 @@ This is a video demo of the early version.
 ### Video Demo
 <iframe width="315" height="177.2" src="https://www.youtube.com/embed/XbTc1YNPajc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
 
 ## 3. Navigation with Floor Map for Domestic Robots
 **[Sep 2017 - Feb 2018] Intelligent Robot Laboratory of Tsukuba University**
@@ -76,7 +87,6 @@ This is a video demo of the early version.
 
 <iframe width="315" height="177.2" src="https://www.youtube.com/embed/ktOwdE69A_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
 
 # Co-author Projects 
 
@@ -111,3 +121,9 @@ Simultaneous localization and mapping (SLAM) is a fundamental problem for variou
 
 ### Publication
 Zhang, X.; Wang, W.; Qi, X.; **Liao, Z.**; Wei, R. Point-Plane SLAM Using Supposed Planes for Indoor Environments. Sensors 2019, 19, 3795. [[pdf]](https://www.mdpi.com/1424-8220/19/17/3795)
+
+<!-- ---
+
+### Last Update
+
+Sep 12, 2020 -->
