@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+---
+
 
 # Publications
 
@@ -87,10 +89,11 @@ This is a video demo of an early version. We recommend seeing the publication fo
 
 <iframe width="315" height="177.2" src="https://www.youtube.com/embed/ktOwdE69A_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
 
 # Co-author Projects 
 
-These projects are conducted with my labratory colleges in the Robotics Institue of Beihang University.
+These projects are conducted with my laboratory colleges in the Robotics Institue of Beihang University.
 
 ## 1. Object Semantic Grid Mapping
 <!-- <img src="./pics/semantic-mapping.png" width = 50% height = 35% align=right /> -->
