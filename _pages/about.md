@@ -9,20 +9,20 @@ redirect_from:
 ---
 
 ## Welcome
-Hi, thanks for visiting!
+Hi, thanks for visiting! This is my personal website.
 
-I'm Liao Ziwei, currently a master student in the Robotics Institute of Beihang University, Beijing, China.
+I'm Ziwei Liao, currently a master student in the Robotics Institute of Beihang University, Beijing, China.
 
 ## Education
-### Beihang University Beijing, China
+### Beihang University (BUAA), Beijing, China
 Master Candidate 
 * the Robotics Institute, School of Mechanical Engineering and Automation	
 * Sep 2018 – Jun 2021(expect)
 
-Bachelor of Mechatronic Engineering	
+Bachelor of Mechanical Engineering	
 * Sep 2014 - Jun 2018
 
-### Tsukuba University	Ibaraki, Japan
+### Tsukuba University, Ibaraki, Japan
 Exchange Student 
 * the Intelligent Robot Laboratory, School of Computer Science
 * Sep 2017 - Feb 2018
@@ -31,4 +31,4 @@ Exchange Student
 My research interests include visual SLAM, semantic scene understanding and robots navigation. Please refer to [Research](https://liao-zw.github.io/research/) for detail introductions.
 
 ## INTERESTS
-Robotics, Entrepreneurship, Reading (Biography, History), Running.
+Robotics, entrepreneurship, reading, science fiction movies, American TV series, swimming, running.
