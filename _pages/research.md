@@ -12,7 +12,7 @@ author_profile: true
 ## 1. Object-level SLAM for Indoor Environments
 **[Sep 2019 - Current] The Robotics Institute of Beihang University**
 
-<center><img src="./pics/object-slam-2.png" width="70%" /></center>
+<center><img src="/images/research/object-slam-2.png" width="70%" /></center>
 <!-- ![](./pics/object-slam-2.png) -->
 
 * Proposed an object-level semantic SLAM algorithm based on RGB-D data, which uses a quadric surface as an object model to compactly represent the object's position, orientation, and shape.
