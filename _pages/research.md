@@ -9,6 +9,9 @@ author_profile: true
 
 ---
 # Main Projects
+
+Version 14-17
+
 ## 1. Object-level SLAM for Indoor Environments
 **[Sep 2019 - Current] The Robotics Institute of Beihang University**
 
@@ -25,7 +28,10 @@ author_profile: true
 
 ### Video Demo 
 This is a video demo of the early version.
-<iframe width="420" height="236.25" src="https://www.youtube.com/embed/u9zRBp4TPIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="315" height="177.2" src="https://www.youtube.com/embed/u9zRBp4TPIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- video size : 420 236.25 -->
+<!-- 3/4 video size : 315 177.2 -->
 
 ---
 
@@ -33,7 +39,8 @@ This is a video demo of the early version.
 **[Oct  2018 – Jul 2019] Research Intern of the SLAM Group in Megvii (Face++) Technology Co., Ltd.**
 
 <!-- <center><img src="./pics/coarse-to-fine.png" width="50%" height="50%" /></center> -->
-![](./pics/coarse-to-fine.png)
+<!-- ![](./pics/coarse-to-fine.png) -->
+<center><img src="/images/research/coarse-to-fine.png" width="50%" /></center>
 
 * Reproduced and evaluated the algorithm proposed in the paper Long-term Visual Localization using Semantically Segmented Images [ICRA2018], which is a semantic localization algorithm based on a particle filter for vehicles. 
 * Proposed a coarse-to-fine localization system with pole-like objects extracted from semantically segmented images
@@ -47,7 +54,7 @@ This is a video demo of the early version.
 [2] **Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv.  [[pdf]](https://arxiv.org/abs/1910.04936)
 
 ### Video Demo
-<iframe width="420" height="236.25" src="https://www.youtube.com/embed/XbTc1YNPajc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="315" height="177.2" src="https://www.youtube.com/embed/XbTc1YNPajc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -55,7 +62,8 @@ This is a video demo of the early version.
 **[Sep 2017 - Feb 2018] Intelligent Robot Laboratory of Tsukuba University**
 
 <!-- <center><img src="./pics/floor-map.png" width="70%" height="70%" /></center> -->
-![](./pics/floor-map.png)
+<!-- ![](./pics/floor-map.png) -->
+<center><img src="/images/research/floor-map.png" width="70%" /></center>
 
 * Designed a navigation and mapping system for domestic logistic robots to travel from the entry of a floor to the destination room described by room number, such as A311, when entering a building for the first time. 
 * Proposed using the floor map for humans as prior for the robots, which commonly exists at the entry of building floors.
@@ -66,7 +74,7 @@ This is a video demo of the early version.
 
 ### Video Demo
 
-<iframe width="420" height="236.25" src="https://www.youtube.com/embed/ktOwdE69A_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="315" height="177.2" src="https://www.youtube.com/embed/ktOwdE69A_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -77,7 +85,8 @@ These projects are conducted with my labratory colleges in the Robotics Institue
 ## 1. Object Semantic Grid Mapping
 <!-- <img src="./pics/semantic-mapping.png" width = 50% height = 35% align=right /> -->
 <!-- <center><img src="./pics/semantic-mapping.png" width="50%" height="50%" /></center> -->
-![](./pics/semantic-mapping.png)
+<!-- ![](./pics/semantic-mapping.png) -->
+<center><img src="/images/research/semantic-mapping.png" width="70%" /></center>
 
 ### Abstract 
 Occupied grid maps are sufficient for mobile robots to complete metric navigation tasks in domestic environments. However, they lack semantic information to endow the robots with the ability of social goal selection and human-friendly operation modes. In this paper, we propose an object semantic grid mapping system with 2D Light Detection and Ranging (LiDAR) and RGB-D sensors to solve this problem. At first, we use a laser-based Simultaneous Localization and Mapping (SLAM) to generate an occupied grid map and obtain a robot trajectory. Then, we employ object detection to get an object’s semantics of color images and use joint interpolation to refine camera poses. Based on object detection, depth images, and interpolated poses, we build a point cloud with object instances. To generate object-oriented minimum bounding rectangles, we propose a method for extracting the dominant directions of the room. Furthermore, we build object goal spaces to help the robots select navigation goals conveniently and socially. We have used the Robot@Home dataset to verify the system; the verification results show that our system is effective. 
@@ -92,7 +101,8 @@ Qi, X.; Wang, W.; **Liao, Z.**; Zhang, X.; Yang, D.; Wei, R. Object Semantic Gri
 
 <!-- <img src="./pics/point-plane-slam.png" width = 50% height = 35% align=right /> -->
 <!-- <center><img src="./pics/point-plane-slam.png" width="70%" height="70%" /></center> -->
-![](./pics/point-plane-slam.png)
+<!-- ![](./pics/point-plane-slam.png) -->
+<center><img src="/images/research/point-plane-slam.png" width="70%" /></center>
 
 ### Abstract
 
