@@ -28,7 +28,7 @@ Liao, Z., Positioning method, device, electronic equipment, readable storage med
 
 # First-author Projects
 
-## 1. Object-level SLAM for Indoor Environments
+## 1. RGB-D Object SLAM using Quadrics for Indoor Environments
 **[Sep 2019 - Current] The Robotics Institute of Beihang University**
 
 <center><img src="/images/research/object-slam-2.png" width="70%" /></center>
@@ -96,7 +96,7 @@ This is a video demo of an early version. We recommend seeing the publication fo
 
 These projects are conducted with my laboratory colleges in the Robotics Institue of Beihang University.
 
-## 1. Object Semantic Grid Mapping
+## 1. Object Semantic Grid Mapping with 2D LiDAR and RGB-D Camera for Domestic Robot Navigation
 <!-- <img src="./pics/semantic-mapping.png" width = 50% height = 35% align=right /> -->
 <!-- <center><img src="./pics/semantic-mapping.png" width="50%" height="50%" /></center> -->
 <!-- ![](./pics/semantic-mapping.png) -->
@@ -112,14 +112,12 @@ These projects are conducted with my laboratory colleges in the Robotics Institu
 Qi, X.; Wang, W.; **Liao, Z.**; Zhang, X.; Yang, D.; Wei, R. Object Semantic Grid Mapping with 2D LiDAR and RGB-D Camera for Domestic Robot Navigation. Appl. Sci. 2020, 10, 5782. [[pdf]](https://www.mdpi.com/2076-3417/10/17/5782)
 
 
-## 2. Point-Plane SLAM
+## 2. Point-Plane SLAM Using Supposed Planes for Indoor Environments
 
 <!-- <img src="./pics/point-plane-slam.png" width = 50% height = 35% align=right /> -->
 <!-- <center><img src="./pics/point-plane-slam.png" width="70%" height="70%" /></center> -->
 <!-- ![](./pics/point-plane-slam.png) -->
 <center><img src="/images/research/point-plane-slam.png" width="70%" /></center>
-
-### Abstract
 
 * proposed a novel point-plane SLAM system using RGB-D cameras with supposed planes for indoor environments. 
 * calculated and generated supposed perpendicular planes from edge lines, resulting in more plane observations and constraints to reduce estimation errors. 
