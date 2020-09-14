@@ -12,7 +12,7 @@ author_profile: true
 
 # Publications
 
-## Jounal
+## journal
 **Liao, Z.**, Wang, W., Qi, X. & Zhang, X.(2020). RGB-D Object SLAM using Quadrics for Indoor Environments. Sensors, 20. [[pdf]](https://www.mdpi.com/1424-8220/20/18/5150/pdf)
 
 Qi, X., Wang, W., **Liao, Z.**, Zhang, X., Wei, Ran. (2020). Object Semantic Grid Mapping with 2D LiDAR and RGB-D Camera for Domestic Robot Navigation. Applied Science, 20. [[pdf]](https://www.mdpi.com/2076-3417/10/17/5782)
