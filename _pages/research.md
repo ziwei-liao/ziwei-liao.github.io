@@ -12,18 +12,19 @@ author_profile: true
 
 # Publications
 
-[1] Liao, Z., Wang, W., Qi, X. & Zhang, X.(2020). RGB-D Object SLAM using Quadrics for Indoor Environments. Sensors, 20. [[pdf]](https://www.mdpi.com/1424-8220/20/18/5150/pdf)
+## Jounal
+**Liao, Z.**, Wang, W., Qi, X. & Zhang, X.(2020). RGB-D Object SLAM using Quadrics for Indoor Environments. Sensors, 20. [[pdf]](https://www.mdpi.com/1424-8220/20/18/5150/pdf)
 
-[2] Qi, X., Wang, W., Liao, Z., Zhang, X., Wei, Ran. (2020). Object Semantic Grid Mapping with 2D LiDAR and RGB-D Camera for Domestic Robot Navigation. Applied Science, 20. [[pdf]](https://www.mdpi.com/2076-3417/10/17/5782)
-
-
-[3] Zhang, X., Wang, W., Qi, X., Liao, Z., & Wei, R. (2019). Point-Plane SLAM Using Supposed Planes for Indoor Environments. Sensors, 19. [[pdf]](https://www.mdpi.com/2076-3417/10/17/5782)
+Qi, X., Wang, W., **Liao, Z.**, Zhang, X., Wei, Ran. (2020). Object Semantic Grid Mapping with 2D LiDAR and RGB-D Camera for Domestic Robot Navigation. Applied Science, 20. [[pdf]](https://www.mdpi.com/2076-3417/10/17/5782)
 
 
-[4] Liao, Z., Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv, abs/1910.04936. (Preprint) [[pdf]](https://arxiv.org/abs/1910.04936)
+Zhang, X., Wang, W., Qi, X., **Liao, Z.**, & Wei, R. (2019). Point-Plane SLAM Using Supposed Planes for Indoor Environments. Sensors, 19. [[pdf]](https://www.mdpi.com/2076-3417/10/17/5782)
 
-[5] Liao, Z., Positioning method, device, electronic equipment, readable storage medium, CN111383286A, 2020 (Chinese Patent)
+## Patent
+Liao, Z., Positioning method, device, electronic equipment, readable storage medium, CN111383286A, 2020 (Chinese Patent)
 
+## Preprint
+**Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv, abs/1910.04936. [[pdf]](https://arxiv.org/abs/1910.04936)
 
 # First-author Projects
 
@@ -101,9 +102,10 @@ These projects are conducted with my laboratory colleges in the Robotics Institu
 <!-- ![](./pics/semantic-mapping.png) -->
 <center><img src="/images/research/semantic-mapping.png" width="70%" /></center>
 
-### Abstract 
-Occupied grid maps are sufficient for mobile robots to complete metric navigation tasks in domestic environments. However, they lack semantic information to endow the robots with the ability of social goal selection and human-friendly operation modes. In this paper, we propose an object semantic grid mapping system with 2D Light Detection and Ranging (LiDAR) and RGB-D sensors to solve this problem. At first, we use a laser-based Simultaneous Localization and Mapping (SLAM) to generate an occupied grid map and obtain a robot trajectory. Then, we employ object detection to get an object’s semantics of color images and use joint interpolation to refine camera poses. Based on object detection, depth images, and interpolated poses, we build a point cloud with object instances. To generate object-oriented minimum bounding rectangles, we propose a method for extracting the dominant directions of the room. Furthermore, we build object goal spaces to help the robots select navigation goals conveniently and socially. We have used the Robot@Home dataset to verify the system; the verification results show that our system is effective. 
-
+* proposed an object semantic grid mapping system with 2D Light Detection and Ranging (LiDAR) and RGB-D sensors to add semantic information to occupied grids. 
+* built a point cloud with object instances based on object detection, depth images, and interpolated poses. 
+* proposed a method for extracting the dominant directions of the room to generate object-oriented minimum bounding rectangles.
+* built object goal spaces to help the robots select navigation goals conveniently and socially. 
 
 ### Publication
 
@@ -119,7 +121,10 @@ Qi, X.; Wang, W.; **Liao, Z.**; Zhang, X.; Yang, D.; Wei, R. Object Semantic Gri
 
 ### Abstract
 
-Simultaneous localization and mapping (SLAM) is a fundamental problem for various applications. For indoor environments, planes are predominant features that are less affected by measurement noise. In this paper, we propose a novel point-plane SLAM system using RGB-D cameras. First, we extract feature points from RGB images and planes from depth images. Then plane correspondences in the global map can be found using their contours. Considering the limited size of real planes, we exploit constraints of plane edges. In general, a plane edge is an intersecting line of two perpendicular planes. Therefore, instead of line-based constraints, we calculate and generate supposed perpendicular planes from edge lines, resulting in more plane observations and constraints to reduce estimation errors. To exploit the orthogonal structure in indoor environments, we also add structural (parallel or perpendicular) constraints of planes. Finally, we construct a factor graph using all of these features. The cost functions are minimized to estimate camera poses and global map. We test our proposed system on public RGB-D benchmarks, demonstrating its robust and accurate pose estimation results, compared with other state-of-the-art SLAM systems. 
+* proposed a novel point-plane SLAM system using RGB-D cameras with supposed planes for indoor environments. 
+* calculated and generated supposed perpendicular planes from edge lines, resulting in more plane observations and constraints to reduce estimation errors. 
+* added structural (parallel or perpendicular) constraints of planes to exploit the orthogonal structure in indoor environments. 
+* constructed a factor graph using all of these features and minimized the cost functions to estimate camera poses and global map. 
 
 
 ### Publication
@@ -129,4 +134,4 @@ Zhang, X.; Wang, W.; Qi, X.; **Liao, Z.**; Wei, R. Point-Plane SLAM Using Suppos
 
 ### Last Update
 
-Sep 12, 2020 -->
+Sep 14, 2020 -->
