@@ -12,21 +12,14 @@ author_profile: true
 
 # Publications
 
-## journal
 **Liao, Z.**, Wang, W., Qi, X. & Zhang, X.(2020). RGB-D Object SLAM using Quadrics for Indoor Environments. Sensors, 20. [[pdf]](https://www.mdpi.com/1424-8220/20/18/5150/pdf)
 
-Qi, X., Wang, W., **Liao, Z.**, Zhang, X., Wei, Ran. (2020). Object Semantic Grid Mapping with 2D LiDAR and RGB-D Camera for Domestic Robot Navigation. Applied Science, 20. [[pdf]](https://www.mdpi.com/2076-3417/10/17/5782)
-
+**Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv, abs/1910.04936. (Preprint) [[pdf]](https://arxiv.org/abs/1910.04936)
 
 Zhang, X., Wang, W., Qi, X., **Liao, Z.**, & Wei, R. (2019). Point-Plane SLAM Using Supposed Planes for Indoor Environments. Sensors, 19. [[pdf]](https://www.mdpi.com/2076-3417/10/17/5782)
 
-## Patent
 Liao, Z., Positioning method, device, electronic equipment, readable storage medium, CN111383286A, 2020 (Chinese Patent)
 
-## Preprint
-**Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv, abs/1910.04936. [[pdf]](https://arxiv.org/abs/1910.04936)
-
-# First-author Projects
 
 ## 1. RGB-D Object SLAM using Quadrics for Indoor Environments
 **[Sep 2019 - Current] The Robotics Institute of Beihang University**
@@ -90,29 +83,10 @@ This is a video demo of an early version. We recommend seeing the publication fo
 
 <iframe width="315" height="177.2" src="https://www.youtube.com/embed/ktOwdE69A_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
+## 4. Point-Plane SLAM Using Supposed Planes for Indoor Environments
+**[Sep 2018 - Aug 2019] The Robotics Institute of Beihang University**
 
-# Co-author Projects 
-
-These projects are conducted with my laboratory colleges in the Robotics Institue of Beihang University.
-
-## 1. Object Semantic Grid Mapping with 2D LiDAR and RGB-D Camera for Domestic Robot Navigation
-<!-- <img src="./pics/semantic-mapping.png" width = 50% height = 35% align=right /> -->
-<!-- <center><img src="./pics/semantic-mapping.png" width="50%" height="50%" /></center> -->
-<!-- ![](./pics/semantic-mapping.png) -->
-<center><img src="/images/research/semantic-mapping.png" width="70%" /></center>
-
-* proposed an object semantic grid mapping system with 2D Light Detection and Ranging (LiDAR) and RGB-D sensors to add semantic information to occupied grids. 
-* built a point cloud with object instances based on object detection, depth images, and interpolated poses. 
-* proposed a method for extracting the dominant directions of the room to generate object-oriented minimum bounding rectangles.
-* built object goal spaces to help the robots select navigation goals conveniently and socially. 
-
-### Publication
-
-Qi, X.; Wang, W.; **Liao, Z.**; Zhang, X.; Yang, D.; Wei, R. Object Semantic Grid Mapping with 2D LiDAR and RGB-D Camera for Domestic Robot Navigation. Appl. Sci. 2020, 10, 5782. [[pdf]](https://www.mdpi.com/2076-3417/10/17/5782)
-
-
-## 2. Point-Plane SLAM Using Supposed Planes for Indoor Environments
+This is a co-author project with my colleges.
 
 <!-- <img src="./pics/point-plane-slam.png" width = 50% height = 35% align=right /> -->
 <!-- <center><img src="./pics/point-plane-slam.png" width="70%" height="70%" /></center> -->
@@ -132,4 +106,4 @@ Zhang, X.; Wang, W.; Qi, X.; **Liao, Z.**; Wei, R. Point-Plane SLAM Using Suppos
 
 ### Last Update
 
-Sep 14, 2020 -->
+Sep 23, 2020 -->
