@@ -22,4 +22,4 @@ My research interests include visual SLAM, semantic scene understanding, and rob
 Please refer to [Research](https://liao-zw.github.io/research/) for detail introductions.
 
 ## Interests
-Robotics, entrepreneurship, psychology, swimming, running, reading, science fiction movies.
+Robotics, entrepreneurship, psychology, swimming, running, reading (literature, science fiction).
