@@ -66,7 +66,7 @@ This is a video demo of an early version. We recommend seeing the publication fo
 ### Preprint & Patent
 **Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv, abs/1910.04936. (Preprint) [[pdf]](https://arxiv.org/pdf/1910.04936.pdf)
 
-[2] **Liao, Z.**, Positioning method, device, electronic equipment, readable storage medium, CN111383286A, 2020 (Chinese Patent)
+**Liao, Z.**, Positioning method, device, electronic equipment, readable storage medium, CN111383286A, 2020 (Chinese Patent)
 
 ### Video Demo
 <iframe width="315" height="177.2" src="https://www.youtube.com/embed/XbTc1YNPajc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
