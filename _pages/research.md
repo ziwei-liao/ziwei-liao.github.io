@@ -8,23 +8,30 @@ author_profile: true
 {% include base_path %}
 
 ---
-
-
 # Publications
 
+### Journal
 **Liao, Z.**, Wang, W., Qi, X. & Zhang, X.(2020). RGB-D Object SLAM using Quadrics for Indoor Environments. Sensors, 20. [[pdf]](https://www.mdpi.com/1424-8220/20/18/5150/pdf)
 
-**Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv, abs/1910.04936. (Preprint) [[pdf]](https://arxiv.org/abs/1910.04936)
+Zhang, X., Wang, W., Qi, X., **Liao, Z.**, & Wei, R. (2019). Point-Plane SLAM Using Supposed Planes for Indoor Environments. Sensors, 19. [[pdf]](https://www.mdpi.com/1424-8220/19/17/3795/pdf)
 
-Zhang, X., Wang, W., Qi, X., **Liao, Z.**, & Wei, R. (2019). Point-Plane SLAM Using Supposed Planes for Indoor Environments. Sensors, 19. [[pdf]](https://www.mdpi.com/2076-3417/10/17/5782)
+<!-- Qi, X.; Wang, W.; **Liao, Z.**; Zhang, X.; Yang, D.; Wei, R. Object Semantic Grid Mapping with 2D LiDAR and RGB-D Camera for Domestic Robot Navigation. Appl. Sci. 2020, 10, 5782. [[pdf]](https://www.mdpi.com/2076-3417/10/17/5782) -->
 
-Liao, Z., Positioning method, device, electronic equipment, readable storage medium, CN111383286A, 2020 (Chinese Patent)
+### Preprint
+Zhang, X., **Liao, Z.**, Qi, X., & Wang, W. (2020). Stereo Plane SLAM Based on Intersecting Lines. ArXiv, abs/2008.08218. Submitted to RA-L/ICRA 2021. [[pdf]](https://arxiv.org/pdf/2008.08218.pdf)
 
+**Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv, abs/1910.04936. (Preprint) [[pdf]](https://arxiv.org/pdf/1910.04936.pdf)
 
+<!-- **Liao, Z.**, Wang, W., Qi, X., Zhang, X., Xue, L., Jiao, J., & Wei, R. (2020). Object-oriented SLAM using Quadrics and Symmetry Properties for Indoor Environments. ArXiv, abs/2004.05303. (Preprint) -->
+
+### Patent
+**Liao, Z.**, Positioning method, device, electronic equipment, readable storage medium, CN111383286A, 2020 (Chinese Patent)
+
+# Projects
 ## 1. RGB-D Object SLAM using Quadrics for Indoor Environments
-**[Sep 2019 - Current] The Robotics Institute of Beihang University**
+**[Sep 2019 - Current] The Robotics Institute of Beihang University, supervised by Prof. Wei Wang**
 
-<center><img src="/images/research/object-slam-2.png" width="70%" /></center>
+<center><img src="/images/research/object-slam-3.png" width="70%" /></center>
 <!-- ![](./pics/object-slam-2.png) -->
 
 * Proposed an object-level semantic SLAM algorithm based on RGB-D data, which uses a quadric surface as an object model to compactly represent the object's position, orientation, and shape.
@@ -33,7 +40,7 @@ Liao, Z., Positioning method, device, electronic equipment, readable storage med
 
 ### Publication
 
-**Liao, Z.**, Wang, W., Qi, X. & Zhang, X.(2020). RGB-D Object SLAM using Quadrics for Indoor Environments. Sensors. [[pdf]](https://www.mdpi.com/1424-8220/20/18/5150/pdf)
+**Liao, Z.**, Wang, W., Qi, X. & Zhang, X.(2020). RGB-D Object SLAM using Quadrics for Indoor Environments. Sensors, 20. [[pdf]](https://www.mdpi.com/1424-8220/20/18/5150/pdf)
 
 ### Video Demo 
 This is a video demo of an early version. We recommend seeing the publication for the detail.
@@ -56,17 +63,17 @@ This is a video demo of an early version. We recommend seeing the publication fo
 * Achieved comparable accuracy with SIFT feature-based methods with a significant small map size of 2.7 kb/km.
 
 
-### Patent & Preprint
-[1] **Liao, Z.**, Positioning method, device, electronic equipment, and readable storage medium, CN111383286A (2020) (in Chinese)
+### Preprint & Patent
+**Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv, abs/1910.04936. (Preprint) [[pdf]](https://arxiv.org/pdf/1910.04936.pdf)
 
-[2] **Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv.  [[pdf]](https://arxiv.org/abs/1910.04936)
+[2] **Liao, Z.**, Positioning method, device, electronic equipment, readable storage medium, CN111383286A, 2020 (Chinese Patent)
 
 ### Video Demo
 <iframe width="315" height="177.2" src="https://www.youtube.com/embed/XbTc1YNPajc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 3. Navigation with Floor Map for Domestic Robots
-**[Sep 2017 - Feb 2018] Intelligent Robot Laboratory of Tsukuba University**
+**[Sep 2017 - Feb 2018] Intelligent Robot Laboratory of Tsukuba University, supervised by Prof. Akihisa Ohya**
 
 <!-- <center><img src="./pics/floor-map.png" width="70%" height="70%" /></center> -->
 <!-- ![](./pics/floor-map.png) -->
@@ -84,23 +91,19 @@ This is a video demo of an early version. We recommend seeing the publication fo
 <iframe width="315" height="177.2" src="https://www.youtube.com/embed/ktOwdE69A_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 4. Point-Plane SLAM Using Supposed Planes for Indoor Environments
-**[Sep 2018 - Aug 2019] The Robotics Institute of Beihang University**
+**[Sep 2018 - Aug 2020] The Robotics Institute of Beihang University, supervised by Prof. Wei Wang**
 
-This is a co-author project with my colleges.
+This is a co-author project with my colleagues.
 
 <!-- <img src="./pics/point-plane-slam.png" width = 50% height = 35% align=right /> -->
 <!-- <center><img src="./pics/point-plane-slam.png" width="70%" height="70%" /></center> -->
 <!-- ![](./pics/point-plane-slam.png) -->
 <center><img src="/images/research/point-plane-slam.png" width="70%" /></center>
 
-* proposed a novel point-plane SLAM system using RGB-D cameras with supposed planes for indoor environments. 
-* calculated and generated supposed perpendicular planes from edge lines, resulting in more plane observations and constraints to reduce estimation errors. 
-* added structural (parallel or perpendicular) constraints of planes to exploit the orthogonal structure in indoor environments. 
-* constructed a factor graph using all of these features and minimized the cost functions to estimate camera poses and global map. 
-
-
 ### Publication
 Zhang, X.; Wang, W.; Qi, X.; **Liao, Z.**; Wei, R. Point-Plane SLAM Using Supposed Planes for Indoor Environments. Sensors 2019, 19, 3795. [[pdf]](https://www.mdpi.com/1424-8220/19/17/3795)
+
+Zhang, X., **Liao, Z.**, Qi, X., & Wang, W. (2020). Stereo Plane SLAM Based on Intersecting Lines. ArXiv, abs/2008.08218. Submitted to RA-L/ICRA 2021. [[pdf]](https://arxiv.org/pdf/2008.08218.pdf)
 
 <!-- ---
 

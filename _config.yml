@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Liao Ziwei"
 title_separator          : "-"
 name                     : &name "Liao Ziwei"
-description              : &description "Master student at Beihang University, China"
+description              : &description "Master candidate, Robotics Institute, Beihang University, China"
 url                      : https://liao-zw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liao-zw.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Liao Ziwei"
+  name             : "Ziwei Liao"
   avatar           : "profile.png"
-  bio              : "I am a master candidate at the Robotics Institute of Beihang University (BUAA)."
+  bio              : "Master candidate, Robotics Institute, Beihang University (BUAA)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
