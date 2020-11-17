@@ -10,8 +10,10 @@ author_profile: true
 ---
 # Publications
 
-### Journal
+### Journal & Conference
 **Liao, Z.**, Wang, W., Qi, X. & Zhang, X.(2020). RGB-D Object SLAM using Quadrics for Indoor Environments. Sensors, 20. [[pdf]](https://www.mdpi.com/1424-8220/20/18/5150/pdf)
+
+**Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. 2020 3rd International Conference on Control and Robots, ICCR 2020, Tokyo, Japan. (accepted) [[pdf]](https://arxiv.org/pdf/1910.04936.pdf)
 
 Zhang, X., Wang, W., Qi, X., **Liao, Z.**, & Wei, R. (2019). Point-Plane SLAM Using Supposed Planes for Indoor Environments. Sensors, 19. [[pdf]](https://www.mdpi.com/1424-8220/19/17/3795/pdf)
 
@@ -20,12 +22,12 @@ Zhang, X., Wang, W., Qi, X., **Liao, Z.**, & Wei, R. (2019). Point-Plane SLAM Us
 ### Preprint
 Zhang, X., **Liao, Z.**, Qi, X., & Wang, W. (2020). Stereo Plane SLAM Based on Intersecting Lines. ArXiv, abs/2008.08218. Submitted to RA-L/ICRA 2021. [[pdf]](https://arxiv.org/pdf/2008.08218.pdf)
 
-**Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv, abs/1910.04936. (Preprint) [[pdf]](https://arxiv.org/pdf/1910.04936.pdf)
+<!-- **Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv, abs/1910.04936. (Preprint) [[pdf]](https://arxiv.org/pdf/1910.04936.pdf) -->
 
 <!-- **Liao, Z.**, Wang, W., Qi, X., Zhang, X., Xue, L., Jiao, J., & Wei, R. (2020). Object-oriented SLAM using Quadrics and Symmetry Properties for Indoor Environments. ArXiv, abs/2004.05303. (Preprint) -->
 
 ### Patent
-**Liao, Z.**, Positioning method, device, electronic equipment, readable storage medium, CN111383286A, 2020 (Chinese Patent)
+**Liao, Z.**, Positioning method, device, electronic equipment, readable storage medium, CN111383286A, 2020
 
 # Projects
 ## 1. RGB-D Object SLAM using Quadrics for Indoor Environments
@@ -63,8 +65,8 @@ This is a video demo of an early version. We recommend seeing the publication fo
 * Achieved comparable accuracy with SIFT feature-based methods with a significant small map size of 2.7 kb/km.
 
 
-### Preprint & Patent
-**Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. ArXiv, abs/1910.04936. (Preprint) [[pdf]](https://arxiv.org/pdf/1910.04936.pdf)
+### Publications
+**Liao, Z.**, Shi, J., Qi, X., Zhang, X., Wang, W., He, Y., Wei, R., & Liu, X. (2019). Coarse-To-Fine Visual Localization Using Semantic Compact Map. 2020 3rd International Conference on Control and Robots, ICCR 2020, Tokyo, Japan. (accepted) [[pdf]](https://arxiv.org/pdf/1910.04936.pdf)
 
 **Liao, Z.**, Positioning method, device, electronic equipment, readable storage medium, CN111383286A, 2020 (Chinese Patent)
 
