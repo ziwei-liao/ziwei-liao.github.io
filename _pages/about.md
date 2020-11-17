@@ -18,7 +18,7 @@ redirect_from:
 
 ...
 ## Biography
-I am currently a 3rd-year master candidate at the Robotics Institute of [Beihang University (BUAA)](https://ev.buaa.edu.cn/), Beijing, China, supervised by Prof. Wei Wang. In 2018, I received the B.E. degree in Mechanical Engineering from BUAA. 
+I am currently a master candidate at the Robotics Institute of [Beihang University (BUAA)](https://ev.buaa.edu.cn/), Beijing, China, supervised by Prof. Wei Wang. In 2018, I received the B.E. degree in Mechanical Engineering from BUAA. 
 
 In 2018, I joined the SLAM Group of Megvii (Face++) Ltd., Co., China as an algorithm researcher intern.
 
