@@ -10,6 +10,8 @@ redirect_from:
 
 ## News
 
+**[12/2020]** The last paper was awarded the **Best Session Paper** in ICCR 2020.
+
 **[11/2020]** One paper accepted by ICCR 2020, Tokyo, Japan.
 
 **[09/2020]** One paper submitted to RA-L/ICRA2021.
