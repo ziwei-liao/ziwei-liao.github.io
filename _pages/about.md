@@ -40,7 +40,7 @@ My research interests include SLAM, computer vision and robotics, aiming to make
 Recently I am concentrating on developing novel visual perception system, with Neural Implicit Representation to model 3D objects and scenes for semantic scene understanding, which is potential for future applications in autonomous robots, robotics manipulation, AR&MR etc.
 
 ## Publications
-Please refer to the page [Research](https://liao-zw.github.io/research/) or [My Google Scholar](https://scholar.google.com/citations?user=IhfB2iQAAAAJ&hl=en) for more details. 
+Please refer to the page [Research](https://ziwei-liao.github.io/research/) or [My Google Scholar](https://scholar.google.com/citations?user=IhfB2iQAAAAJ&hl=en) for more details. 
 
 ## Interests & Hobbies
 Robotics, games (PC & Switch), reading (literature, science fiction), swimming.
