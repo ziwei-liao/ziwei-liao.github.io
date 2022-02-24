@@ -11,9 +11,9 @@ title                    : "Ziwei Liao"
 title_separator          : "-"
 name                     : &name "Ziwei Liao"
 description              : &description "Master candidate, Robotics Institute, Beihang University, China"
-url                      : https://liao-zw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ziwei-liao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liao-zw.github.io"
+repository               : "ziwei-liao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ziwei Liao"
-  avatar           : "profile_ziwei.jpg"
+  avatar           : "profile_ziwei.png"
   bio              : "Ph.D. Candidate, Institute for Aerospace Study, University of Toronto"
   location         : "Toronto, Canada"
   employer         :

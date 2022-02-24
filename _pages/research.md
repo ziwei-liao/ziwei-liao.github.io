@@ -106,9 +106,11 @@ Zhang, X.; Wang, W.; Qi, X.; **Liao, Z.**; Wei, R. Point-Plane SLAM Using Suppos
 
 <iframe width="315" height="177.2" src="https://www.youtube.com/embed/ktOwdE69A_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Robots
 
-I am a big fan of robots and my university lifes are full of activities related to robotics competitions and electronics design projects. E.g., joined the Beihang Robot Team for the Robocon National Robotics Competition (2016-2018); designed a rotorcraft with a master-slave mechanical arm; and had fun with some robots during my master project. I was once the president of Beihang Robot Association (2015-2016).
+
+# Robots Experiences
+
+I am a big fan of robots and my university lifes are full of activities related to robotics competitions and electronics design projects. E.g., I joined the Beihang Robot Team for the Robocon National Robotics Competition (2016-2018); designed a rotorcraft with a master-slave mechanical arm; and had fun with some robots during my master project. I was once the president of Beihang Robot Association (2015-2016).
 
 <center><img src="/images/research/robots.png" width="70%" /></center>
 
