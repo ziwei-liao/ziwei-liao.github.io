@@ -14,7 +14,7 @@ Hi! I am Ziwei Liao, currently a 3rd-year Ph.D. candidate at the [Toronto Roboti
 I was fortunate to have cooperated with researchers at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (MSRA), and [Megvii Research](https://en.megvii.com/) (Face++). 
 
 
-I received my M.Phil. at the Autonomous Robots Lab, supervised by Prof. Wang Wei, at the Robotics Institute, School of Mechanical Engineering and Automation of [Beihang University](https://ev.buaa.edu.cn/), Beijing, China. 
+I received my M.Sci. at the Autonomous Robots Lab, supervised by Prof. Wang Wei, at the Robotics Institute, School of Mechanical Engineering and Automation of [Beihang University](https://ev.buaa.edu.cn/), Beijing, China. 
 
 I received my B.E. in Mechatronics Engineering from Beihang University, where I also visited the [Intelligent Robot Laboratory](https://www.roboken.iit.tsukuba.ac.jp/en/) at Tsukuba University, Japan as a research assistant supervised by Prof. Akihisa Ohya.
 
