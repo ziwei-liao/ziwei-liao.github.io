@@ -75,7 +75,7 @@ Please see my [Google Scholar Page](https://scholar.google.com/citations?user=Ih
       <img src="/images/research/paper_teaser/humanpose.png" alt="alternative text" width="400"/>
     </td>
     <td style="border: 0;">
-      <p style="font-size:20px;"><strong>Multiple View Transformers for 3D Human Pose Estimation</strong><br><strong>Ziwei Liao</strong>*, Jialiang Zhu*, Chunyu Wang, Han Hu, Steven Waslander<br>arXiv, 2024<br>[arXiv]</p>
+      <p style="font-size:20px;"><strong>Multiple View Transformers for 3D Human Pose Estimation</strong><br><strong>Ziwei Liao</strong>*, Jialiang Zhu*, Chunyu Wang, Han Hu, Steven Waslander<br>arXiv, 2024<br><a href="http://arxiv.org/abs/2311.10983">[arXiv]</a>, under review</p>
     </td>
   </tr>
 </table>

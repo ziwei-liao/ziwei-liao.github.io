@@ -34,7 +34,8 @@ If you are also interested, feel free to contact me for a small talk or collabor
 
 
 ## News
-**[11/2023]** A paper for 3D Human Pose Estimation with Transformers is available on [ArXiv], cooperated with Microsoft Research Asia.
+**[11/2023]** A paper for 3D Human Pose Estimation with Transformers is available on [[ArXiv]](http://arxiv.org/abs/2311.10983
+), cooperated with Microsoft Research Asia.
 
 **[10/2023]** A paper for 3D object reconstruction with uncertainty was accepted by **WACV 2024**, held in Hawaii, America. [[ArXiv]](https://arxiv.org/abs/2306.11739)
 
