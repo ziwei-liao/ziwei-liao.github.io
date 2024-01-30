@@ -24,7 +24,7 @@ Please see my [Google Scholar Page](https://scholar.google.com/citations?user=Ih
       <img src="/images/research/paper_teaser/mapping.png" alt="alternative text" width="400"/>
     </td>
     <td style="border: 0;">
-      <p style="font-size:20px;"><strong>Uncertainty-aware 3D Object-Level Mapping with Deep Shape Priors</strong><br><strong>Ziwei Liao</strong>*, Jun Yang*, Jingxing Qian*, Angela P. Schoellig, Steven L. Waslander<br>Manuscript submitted to ICRA24<br><a href="https://arxiv.org/pdf/2309.09118.pdf">[pdf]</a> <a href="https://github.com/TRAILab/UncertainShapePose">[code]</a></p>
+      <p style="font-size:20px;"><strong>Uncertainty-aware 3D Object-Level Mapping with Deep Shape Priors</strong><br><strong>Ziwei Liao</strong>*, Jun Yang*, Jingxing Qian*, Angela P. Schoellig, Steven L. Waslander<br>ICRA 2024<br><a href="https://arxiv.org/pdf/2309.09118.pdf">[pdf]</a> <a href="https://github.com/TRAILab/UncertainShapePose">[code]</a></p>
     </td>
   </tr>
   <tr>
