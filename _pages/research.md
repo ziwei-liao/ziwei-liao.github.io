@@ -14,6 +14,22 @@ Please see my [Google Scholar Page](https://scholar.google.com/citations?user=Ih
 ---
 
 
+
+## 3D Human Pose
+
+<table style="border: 0;">
+  <tr>
+    <td style="border: 0;" width="300px">
+      <!-- Add your image here -->
+      <img src="/images/research/paper_teaser/humanpose.png" alt="alternative text" width="400"/>
+    </td>
+    <td style="border: 0;">
+      <p style="font-size:20px;"><strong>Multiple View Transformers for 3D Human Pose Estimation</strong><br><strong>Ziwei Liao</strong>*, Jialiang Zhu*, Chunyu Wang, Han Hu, Steven Waslander<br>CVPR 2024<br><a href="http://arxiv.org/abs/2311.10983">[pdf]</a></p>
+    </td>
+  </tr>
+</table>
+
+
 ## 3D Objects
 
 
@@ -61,21 +77,6 @@ Please see my [Google Scholar Page](https://scholar.google.com/citations?user=Ih
     </td>
     <td style="border: 0;">
       <p style="font-size:20px;"><strong>Object-oriented SLAM using Quadrics and Symmetry Properties for Indoor Environments</strong><br><strong>Ziwei Liao</strong>, Wei Wang, Xianyu Qi, Xiaoyu Zhang, Lin Xue, Jianzhen Jiao, Ran Wei<br>ArXiv, 2020<br><a href="https://arxiv.org/pdf/2004.05303">[pdf]</a> <a href="https://github.com/XunshanMan/Object-oriented-SLAM">[code]</a> <a href="https://www.youtube.com/watch?v=u9zRBp4TPIs">[video]</a></p>
-    </td>
-  </tr>
-</table>
-
-
-## 3D Human Pose
-
-<table style="border: 0;">
-  <tr>
-    <td style="border: 0;" width="300px">
-      <!-- Add your image here -->
-      <img src="/images/research/paper_teaser/humanpose.png" alt="alternative text" width="400"/>
-    </td>
-    <td style="border: 0;">
-      <p style="font-size:20px;"><strong>Multiple View Transformers for 3D Human Pose Estimation</strong><br><strong>Ziwei Liao</strong>*, Jialiang Zhu*, Chunyu Wang, Han Hu, Steven Waslander<br>arXiv, 2024<br><a href="http://arxiv.org/abs/2311.10983">[arXiv]</a>, under review</p>
     </td>
   </tr>
 </table>

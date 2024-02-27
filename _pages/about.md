@@ -34,18 +34,21 @@ If you are also interested, feel free to contact me for a small talk or collabor
 
 
 ## News
-**[1/2024]** A paper for object-level mapping (3D pose & shape) with uncertainty [[ArXiv]](https://arxiv.org/abs/2309.09118) is accepted by **ICRA 24**! See you in Japan in May! 
+**[2/2024]** [A paper](http://arxiv.org/abs/2311.10983
+) for 3D Human Pose Estimation with Transformers is accepted by **CVPR 24**, cooperated with Microsoft Research Asia. See you in Seattle, USA in June!
+
+**[1/2024]** [A paper](https://arxiv.org/abs/2309.09118) for object-level mapping (3D pose & shape) with uncertainty is accepted by **ICRA 24**. See you in Japan in May! 
 
 <!-- **[1/2024]** Enjoyed a nice time and met a lot of researchers during WACV 2024 in Hawaii, USA! -->
 
-**[11/2023]** A paper for 3D Human Pose Estimation with Transformers is available on [[ArXiv]](http://arxiv.org/abs/2311.10983
-), cooperated with Microsoft Research Asia.
+<!-- **[11/2023]** A paper for 3D Human Pose Estimation with Transformers is available on [[ArXiv]](http://arxiv.org/abs/2311.10983
+), cooperated with Microsoft Research Asia. -->
 
-**[10/2023]** A paper for 3D object reconstruction with uncertainty was accepted by **WACV 2024**, held in Hawaii, USA. [[ArXiv]](https://arxiv.org/abs/2306.11739)
+**[10/2023]** [A paper](https://arxiv.org/abs/2306.11739) for 3D object reconstruction with uncertainty was accepted by **WACV 2024**, held in Hawaii, USA.
 
 <!-- **[9/2023]** A paper for object-level mapping (3D pose & shape) with uncertainty is submitted to **ICRA 24**. [[ArXiv]](https://arxiv.org/abs/2309.09118) -->
 
-**[2/2022]** A paper for monocular object-level SLAM with quadrics (SO-SLAM) was accepted by **IEEE RA-L** and presented at **ICRA 2022**. [[ArXiv]](https://arxiv.org/pdf/2109.04884.pdf)
+**[2/2022]** [A paper](https://arxiv.org/pdf/2109.04884.pdf) for monocular object-level SLAM with quadrics (SO-SLAM) was accepted by **IEEE RA-L** and presented at **ICRA 2022**. 
 
 **[9/2021]** **I joined the [Toronto Robotics and AI Lab](https://www.trailab.utias.utoronto.ca/) at the University of Toronto to pursue a Ph.D. in computer vision and robotics**. 
 
