@@ -43,6 +43,7 @@ Please see my [Google Scholar Page](https://scholar.google.com/citations?user=Ih
     <td style="border: 0;">
       <p style="font-size:20px;"><strong>Multi-view 3D Object Reconstruction and Uncertainty Modelling with Neural Shape Prior</strong><br><strong>Ziwei Liao</strong>, Steven L. Waslander<br>WACV 2024<br><a href="https://arxiv.org/pdf/2306.11739.pdf">[PDF]</a></p>
     </td>
+  </tr>
 </table>
 
 
@@ -63,7 +64,6 @@ Please see my [Google Scholar Page](https://scholar.google.com/citations?user=Ih
 ## 3D Object-level SLAM
 
 <table style="border: 0;">
-  </tr>
   <tr>
     <td style="border: 0;" width="300px">
       <!-- Add your image here -->
