@@ -14,26 +14,18 @@ Please see my [Google Scholar Page](https://scholar.google.com/citations?user=Ih
 ---
 
 
-
-## 3D Human Pose
+## 3D with Generative Models
 
 <table style="border: 0;">
   <tr>
     <td style="border: 0;" width="300px">
       <!-- Add your image here -->
-      <img src="/images/research/paper_teaser/humanpose.png" alt="alternative text" width="400"/>
+      <img src="/images/research/paper_teaser/gom.png" alt="alternative text" width="400"/>
     </td>
     <td style="border: 0;">
-      <p style="font-size:20px;"><strong>Multiple View Transformers for 3D Human Pose Estimation</strong><br><strong>Ziwei Liao</strong>*, Jialiang Zhu*, Chunyu Wang, Han Hu, Steven Waslander<br>CVPR 2024<br><a href="http://arxiv.org/abs/2311.10983">[PDF]</a><a href="https://github.com/XunshanMan/MVGFormer">[Code]</a></p>
+      <p style="font-size:20px;"><strong>Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors</strong><br><strong>Ziwei Liao</strong>, Binbin Xu, Steven L. Waslander<br>CoRL 2024<br><a href="https://openreview.net/forum?id=rEteJcq61j">[PDF]</a> <a href="https://github.com/TRAILab/GeneralObjectMapping">[Code]</a></p>
     </td>
   </tr>
-</table>
-
-
-## 3D Objects
-
-
-<table style="border: 0;">
   <tr>
     <td style="border: 0;" width="300px">
       <!-- Add your image here -->
@@ -51,6 +43,26 @@ Please see my [Google Scholar Page](https://scholar.google.com/citations?user=Ih
     <td style="border: 0;">
       <p style="font-size:20px;"><strong>Multi-view 3D Object Reconstruction and Uncertainty Modelling with Neural Shape Prior</strong><br><strong>Ziwei Liao</strong>, Steven L. Waslander<br>WACV 2024<br><a href="https://arxiv.org/pdf/2306.11739.pdf">[PDF]</a></p>
     </td>
+</table>
+
+
+## 3D Human Pose
+
+<table style="border: 0;">
+  <tr>
+    <td style="border: 0;" width="300px">
+      <!-- Add your image here -->
+      <img src="/images/research/paper_teaser/humanpose.png" alt="alternative text" width="400"/>
+    </td>
+    <td style="border: 0;">
+      <p style="font-size:20px;"><strong>Multiple View Transformers for 3D Human Pose Estimation</strong><br><strong>Ziwei Liao</strong>*, Jialiang Zhu*, Chunyu Wang, Han Hu, Steven Waslander<br>CVPR 2024<br><a href="http://arxiv.org/abs/2311.10983">[PDF]</a><a href="https://github.com/XunshanMan/MVGFormer">[Code]</a></p>
+    </td>
+  </tr>
+</table>
+
+## 3D Object-level SLAM
+
+<table style="border: 0;">
   </tr>
   <tr>
     <td style="border: 0;" width="300px">

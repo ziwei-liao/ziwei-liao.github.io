@@ -9,39 +9,27 @@ redirect_from:
 ---
 
 ## Biography
-Hi, welcome! I am Ziwei Liao, currently a 3rd-year Ph.D. candidate in computer vision and robotics, at the [Toronto Robotics & AI Lab](https://www.trailab.utias.utoronto.ca/), Institute for Aerospace Study (UTIAS), University of Toronto, supervised by [Prof. Steven L. Waslander](https://www.trailab.utias.utoronto.ca/stevenwaslander). I am affiliated with the [Vector Institute](https://vectorinstitute.ai/), and the [University of Toronto Robotics Institute](https://robotics.utoronto.ca/).
+Hello, I am Ziwei, currently a 4th-year Ph.D. candidate in computer vision and robotics from the University of Toronto. I studied at the [Toronto Robotics and AI Lab](https://www.trailab.utias.utoronto.ca/) supervised by [Prof. Steven L. Waslander](https://www.trailab.utias.utoronto.ca/stevenwaslander). I am affiliated with the [Institute for Aerospace Study (UTIAS)](https://www.utias.utoronto.ca/), [UToronto Robotics Institute](https://robotics.utoronto.ca/) and the [Vector Institute](https://vectorinstitute.ai/).
 
-Starting in June 2024, I joined [Niantic Labs](https://nianticlabs.com/), in London, UK, as a research intern. Niantic Labs is a leader in augmented reality technology and developed Pokémon GO. 
-Besides, I was fortunate to have cooperated with researchers at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (MSRA), and [Megvii Research](https://en.megvii.com/) (Face++). 
+Starting in June 2024, I joined [Niantic Labs](https://nianticlabs.com/), in London, UK, as a research intern. Niantic developed the AR game Pokémon GO and is a leading tech company in 3D mapping. 
+I was also fortunate to have cooperated with researchers at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (MSRA), and [Megvii Research](https://en.megvii.com/) (Face++) as a research intern. 
 
-
-In 2021, I received my M.Sci. at the Autonomous Robots Lab, supervised by Prof. Wang Wei, at the Robotics Institute, School of Mechanical Engineering and Automation of [Beihang University](https://ev.buaa.edu.cn/), Beijing, China. 
-
-In 2018, I received my B.E. in Mechatronics Engineering from Beihang University, where I also visited the [Intelligent Robot Laboratory](https://www.roboken.iit.tsukuba.ac.jp/en/) at Tsukuba University, Japan as a research assistant supervised by Prof. Akihisa Ohya.
+In 2021 and 2018, I received my M.Sci. and B.E. at the Robotics Institute of [Beihang University](https://ev.buaa.edu.cn/), Beijing, China, supervised by Prof. Wang Wei. In 2017, I visited the [Intelligent Robot Laboratory](https://www.roboken.iit.tsukuba.ac.jp/en/) at Tsukuba University, Japan as a research assistant supervised by Prof. Akihisa Ohya.
 
 Please refer to my [[CV]](/files/ZiweiLiao_CV.pdf) for more details.
 
-<span style="color:red;">I will be graduating with my Ph.D. in August 2025 and am open to full-time positions in AI, Robotics, AR and more. Please feel free to send me an email. Thank you!</span>
-
-
-## Research Interests
-
-Keywords: 3D Vision, SLAM, Robotics, Deep Learning
-
-My long-term goal is to make intelligent robots and machines perceive, understand, and interact with real environments to help human beings in the real world. To achieve that, my research concentrates on visual perception and learning as following:
-
-**3D Objects and Scenes**: My research areas cover mapping and localization (SLAM), pose estimation, and reconstruction, with a focus on 3D common objects.
-
-**Learning with 3D geometry**: I am interested in the combination of geometrics and learning-based methods, such as NeRF and Gaussian Splatting, Generative Models as 3D shape priors (e.g., VAE, Diffusion), learning frameworks for multi-view and 3D (e.g., Transformers), and modeling of the distribution and uncertainty.
-
-If you are also interested, feel free to contact me for a small talk or collaboration!
-
+<span style="color:red;">I will graduate before August 2025 and am open to positions in 3D, GenAI, Robotics, AR, and other relevant areas. Please feel free to send me an email. Thank you!</span>
 
 ## News
-**[2/2024]** [A paper](http://arxiv.org/abs/2311.10983
-) for 3D Human Pose Estimation with Transformers is accepted by **CVPR 24**, cooperated with Microsoft Research Asia. See you in Seattle, USA in June!
+**[9/2024]** [A paper](http://arxiv.org/abs/2311.10983
+) for general object-level mapping with 3D diffusion model is accepted by **CoRL 24**. See you in Munich, Germany in November!
 
-**[1/2024]** [A paper](https://arxiv.org/abs/2309.09118) for object-level mapping (3D pose & shape) with uncertainty is accepted by **ICRA 24**. See you in Japan in May! 
+**[6/2024]** I joined [Niantic Labs](https://nianticlabs.com/) as a research intern in London, UK.
+
+**[2/2024]** [A paper](http://arxiv.org/abs/2311.10983
+) for 3D human pose estimation with transformers is accepted by **CVPR 24**, cooperated with Microsoft Research Asia, held in Seattle, USA.
+
+**[1/2024]** [A paper](https://arxiv.org/abs/2309.09118) for object-level mapping (3D pose & shape) with uncertainty is accepted by **ICRA 24**, held in Yokohama, Japan.
 
 <!-- **[1/2024]** Enjoyed a nice time and met a lot of researchers during WACV 2024 in Hawaii, USA! -->
 
@@ -68,13 +56,26 @@ If you are also interested, feel free to contact me for a small talk or collabor
 ...
 
 
+
+## Research Interests
+
+Keywords: 3D Vision, Robotics, Deep Learning
+
+My long-term goal is to make robots and machines perceive, understand, and interact with 3D environments to help humans in the real world. My past research focuses on 3D vision and learning, including:
+
+* **3D Representations for Objects and Scenes**: Implicit representations (e.g., NeRF, SDF), Gaussian Splattings, and their applications in mapping and localization (SLAM), object reconstruction, and pose estimation from sensor observations.
+
+* **Learning with Generative Priors and Uncertainty**: Learning to solve ill-posed inverse problems with generative models (e.g., VAE, Diffusion) as prior knowledge, with applications in sparse-view reconstruction under partial observations, uncertainty estimation, and multi-view learning formulation (e.g., Transformers).
+
+If you are also interested in any of the topics, please feel free to contact me for discussion and collaboration.
+
 ## Academic Service
 
 I am serving as a reviewer for:
 
 * Journal: The International Journal of Robotics Research
 (IJRR), IEEE Robotics and Automation Letters (RA-L) 
-* Conference: ICRA 2024, 2023; NeurIPS 2024; CVPR 2024, 2023; ECCV 2024; WACV 2024, 2025; 
+* Conference: ICLR 2025; ICRA 2024, 2023; NeurIPS 2024; CVPR 2024, 2023; ECCV 2024; WACV 2024, 2025; 
 
 ## Publications
 Please refer to the page [Research](https://ziwei-liao.github.io/research/) or [My Google Scholar](https://scholar.google.com/citations?user=IhfB2iQAAAAJ&hl=en) for more details. 
