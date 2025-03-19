@@ -24,8 +24,8 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
   - title: "CV"
     url: /files/ZiweiLiao_CV.pdf
