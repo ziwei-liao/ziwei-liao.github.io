@@ -237,7 +237,7 @@ Please see my [Google Scholar Page](https://scholar.google.com/citations?user=Ih
 </table>
 
 
-### Experiences with real robots
+## Hands-On Experience with Real-World Robots
 
 <table style="border: 0;">
   <tr>
