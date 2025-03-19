@@ -241,18 +241,14 @@ Please see my [Google Scholar Page](https://scholar.google.com/citations?user=Ih
 
 <table style="border: 0;">
   <tr>
-    <td style="border: 0;" width="600px">
+    <td style="border: 0;" width="700px">
       <!-- Left side empty -->
       <img src="/images/research/robots.png" width="100%"/>
     </td>
-    <td style="border: 0;">
-      <p style="font-size:20px;">I am a huge enthusiast of robotics, and my college experience was filled with exciting activities related to robotics competitions and electronics design projects.
-      <br>
-      I was the vice captain of the Robot Team at Beihang University, participating in the Robocon National Robotics Competition (2016-2018). 
-      I designed a rotorcraft equipped with a master-slave mechanical arm (2015). 
-      I had the opportunity to work with various robots during both my bachelor's and master's projects. 
-      <br>
-      I served as the president of the Robotics Student Association at Beihang University (2015-2016). </p>
-    </td>
   </tr>
 </table>
+I have been a huge enthusiast of robotics throughout my college years.
+I was the vice captain of the Robot Team at Beihang University, participating in the Robocon National Robotics Competition (2016-2018). 
+I designed a rotorcraft equipped with a master-slave mechanical arm (2015). 
+I had the opportunity to work with various robots during both my bachelor's and master's projects (2018, 2021). 
+I served as the president of the Robotics Student Association at Beihang University (2015-2016).
