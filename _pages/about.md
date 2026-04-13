@@ -230,3 +230,8 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?user=Ih
 I have been deeply interested in robotics throughout my studies.
 
 I served as Vice Captain of the Robotics Team at Beihang University, where I participated in the RoboCon National Robotics Competition (2016–2018). I also designed a rotorcraft equipped with a master-slave robotic arm (2015). During my bachelor’s and master’s studies (2018, 2021), I worked with a variety of robotic systems on research projects. In addition, I served as President of the Robotics Student Association at Beihang University (2015–2016).
+
+## Hobbies
+
+* I enjoy tennis, cooking, PC games, and TV series and movies, especially science fiction and history.
+* I enjoy traveling and have lived long-term in China, Japan, and the UK.
