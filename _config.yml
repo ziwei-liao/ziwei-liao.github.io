@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ziwei Liao"
 title_separator          : "-"
 name                     : &name "Ziwei Liao"
-description              : &description "Master candidate, Robotics Institute, Beihang University, China"
+description              : &description "Applied Scientist, Wayve | PhD at University of Toronto"
 url                      : https://ziwei-liao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ziwei-liao.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ziwei Liao"
   avatar           : "profile_ziwei.jpg"
-  bio              : "Ph.D. Candidate, University of Toronto"
-  location         : "Toronto, Canada"
+  bio              : "Applied Scientist, Wayve | PhD at University of Toronto"
+  location         : "London, United Kingdom"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=IhfB2iQAAAAJ&hl=en
